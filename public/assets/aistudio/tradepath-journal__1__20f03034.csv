@@ -1,0 +1,6 @@
+"Date","Symbol","Side","Entry","Exit","Stop","Size","PnL","Risk","R Multiple","Strategy","Emotion","Rules followed"
+"2026-10-25","BTCUSDT","Long","67120","68240","66500","0.08","89.6","49.6","1.81","Breakout retest","Calm","5/5"
+"2026-10-24","ES","Short","6842.5","6850.25","6852","2","-15.5","19","-0.82","Liquidity sweep","FOMO","3/5"
+"2026-10-23","ETHUSDT","Long","2480","2532","2450","0.5","26","15","1.73","Trend continuation","Confident","4/5"
+"2026-10-22","NQ","Short","25180","25230","25235","1","-50","55","-0.91","Liquidity sweep","Revenge","2/5"
+"2026-10-21","BTCUSDT","Long","65800","67150","65000","0.04","54","32","1.69","Breakout retest","Calm","5/5"

@@ -1,0 +1,6 @@
+{
+  "name": "DDY TRADE JOURNAL - Visual Auto Trading Terminal",
+  "description": "DDY TRADE JOURNAL: Ultra-premium visual automated trading journal for Quotex binary options and forex traders, featuring candlestick replay, PnL analytics, risk heatmap, and AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
